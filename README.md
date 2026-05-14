@@ -29,7 +29,6 @@ Remove registros duplicados com base no título dos artigos.
 * Saída: nova planilha sem duplicatas
 
 📌 Baseado na coluna `Title`
-📎 Código: 
 
 ---
 
@@ -48,8 +47,6 @@ Gera:
 * Probabilidade de relevância
 * Ranking dos artigos
 
-📎 Código: 
-
 ---
 
 ### 3. 🔎 Identificação de Palavras-chave
@@ -62,7 +59,6 @@ Analisa Title e Abstract para identificar:
 * Local onde foram encontradas
 * Lista das palavras identificadas
 
-📎 Código: 
 
 ---
 
@@ -83,7 +79,6 @@ Extrai automaticamente diversas variáveis dos artigos:
 
 Utiliza dicionários e regras heurísticas baseadas em texto.
 
-📎 Código: 
 
 ---
 
