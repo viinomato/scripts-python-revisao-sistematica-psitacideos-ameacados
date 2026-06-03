@@ -29,7 +29,7 @@ import pandas as pd
 # CONFIGURAÇÕES
 # ============================================================
 
-ARQUIVO_ENTRADA = "Elegibilidade.xlsx"
+ARQUIVO_ENTRADA = "planilha_de_dados.xlsx"
 ARQUIVO_SAIDA = "Artigos_Categorizados.xlsx"
 
 # ============================================================
