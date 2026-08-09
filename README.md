@@ -188,7 +188,7 @@ Executa análises estatísticas para investigar padrões relacionados às ameaç
 
 ### Análises realizadas
 
-#### Kruskal-Wallis
+#### Kruskal-Wallis (ao final, este teste não foi utilizado no artigo final)
 Compara o número de subtipos de ameaça entre os biomas.
 
 #### Análise de Correspondência (CA)
@@ -404,7 +404,7 @@ A sequência conceitual dos scripts é:
 | **2** | `2 - filtragem_rankeamento.py` | Filtragem textual e ranking de relevância |
 | **3** | `3 - palavras_chave_encontradas.py` | Identificação e localização de palavras-chave |
 | **4** | `4 - categorizacao_artigos.py` | Extração e categorização das variáveis |
-| **5** | `5 - script_estatisticas_multivariadas.py` | Kruskal-Wallis, CA e regressão temporal |
+| **5** | `5 - script_estatisticas_multivariadas.py` | Kruskal-Wallis (não foi utilizada no artigo final), CA e regressão temporal |
 | **6** | `6 - RankingAmeacas_AmeacasEmergentes.py` | Ranking, distribuição temporal e ameaças emergentes |
 | **7** | `7 - MCA.py` | Análise de Correspondência Múltipla |
 | **8** | `8 - GLM.py` | Modelo binomial para exploração humana |
